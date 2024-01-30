@@ -18,13 +18,7 @@ Este é um simples site desenvolvido em HTML, CSS e JavaScript que gera frases m
 
 [MyMemory API](https://api.mymemory.translated.net): Utilizada para tradução automática das frases motivacionais.
 
-Como Usar
-Clone este repositório:
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo index.html em seu navegador web.
 
 Clique no botão "Gerar Frase" para obter uma nova frase motivacional traduzida.
 
